@@ -8,17 +8,17 @@
 }
 
 header{
-    border-style: dotted;
+    border-style: solid;
     border-color: mediumorchid;
     border-radius:8px;
-    background-color: darkorchid;
+    background-color:mediumpurple;
 }
 
 nav{
-    border-style:dotted;
+    border-style:solid;
     border-color:mediumorchid;
     border-radius:8px;
-    background-color: darkorchid;
+    background-color:rebeccapurple;
 }
 .images{
     float:right;
@@ -39,5 +39,24 @@ button:hover{
     border-radius:8px;
     box-shadow: 0 12px 16px 0;
     background-color:mediumpurple;
+    
 }
 
+footer{
+    display: flex;
+    position: relative;
+    bottom: 0;
+}
+
+.container{
+    border-style:double;
+    border-color:blueviolet;
+    border-radius: 16px;
+    background-color:darkorchid;
+    
+}
+
+footer{
+    border-style: solid;
+    background-color: blueviolet;
+}
