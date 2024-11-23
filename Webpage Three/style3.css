@@ -1,0 +1,30 @@
+*{
+    font-size:medium;
+    justify-items: center;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+header{
+    border-style:solid;
+    border-radius:8px;
+    border-color:darkgreen;
+    background-color: seagreen;
+}
+
+nav{
+    border-style:solid;
+    border-color:seagreen;
+    border-radius:8px;
+    background-color:yellowgreen;
+}
+button:hover{
+    border-radius:8px;
+    box-shadow: 0 12px 16px 0;
+    background-color:green;
+}
+
+.section{
+    border-style:double;
+    border-color:
+}
