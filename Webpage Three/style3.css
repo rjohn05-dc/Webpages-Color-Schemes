@@ -21,10 +21,22 @@ nav{
 button:hover{
     border-radius:8px;
     box-shadow: 0 12px 16px 0;
-    background-color:green;
+    background-color:red;
 }
 
 .section{
     border-style:double;
-    border-color:
+    border-color:aquamarine
+}
+
+.box{
+    border-radius:8px;
+    box-shadow: 0 12px 16px 0;
+    background-color:green;
+}
+
+footer{
+    border-style:double;
+    border-color:aquamarine;
+    background-color:chartreuse;
 }
